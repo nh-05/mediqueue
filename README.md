@@ -1,8 +1,8 @@
 Smart Hospital Queue Management System (Website)
 
 🎯 Objective
-Design a system that reduces patient waiting time by intelligently managing OPD queues, doctor availability, and real-time token updates.
-🧩 Core Features Required
+ A system that reduces patient waiting time by intelligently managing OPD queues, doctor availability, and real-time token updates.
+🧩 Core Features :
 1. Patient Side (Web Interface)
    * Register / login
    * Book appointment or join live queue
@@ -28,7 +28,7 @@ Design a system that reduces patient waiting time by intelligently managing OPD 
       * Emergency cases
    * Real-time updates using WebSockets or polling
    * Auto recalculation of waiting time
-⚙️ Tech Stack (suggested)
+⚙️ Tech Stack 
 * Frontend: React (or Next.js)
 * Backend: Node.js + Express (or FastAPI)
 * Database: MongoDB or PostgreSQL
